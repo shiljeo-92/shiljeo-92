@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiljeo-92
-- 👀 I’m interested in android development, data security
-- 🌱 I’m currently learning java, android
-- 💞️ I’m looking to collaborate on indoor navigation
+- 👀 I’m interested in android development, data security, topological data analysis
+- 🌱 I’m currently working in AI and ML 
+- 💞️ I’m looking to collaborate on topological data analysis 
 - 📫 Mail me at p.shilpashaju@gmail.com ...
 
 <!---
